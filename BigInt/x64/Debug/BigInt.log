@@ -1,0 +1,5 @@
+﻿  Main.cpp
+C:\Dev\CppSreies\BigInt\BigInt\Main.cpp(26,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Dev\CppSreies\BigInt\BigInt\Main.cpp(41,21): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+C:\Dev\CppSreies\BigInt\BigInt\Main.cpp(155,20): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  BigInt.vcxproj -> C:\Dev\CppSreies\BigInt\x64\Debug\BigInt.exe
